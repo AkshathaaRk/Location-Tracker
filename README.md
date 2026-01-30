@@ -1,4 +1,4 @@
-# LocTracker
+# Location Tracker
 
 A location tracking application built with Python.
 
